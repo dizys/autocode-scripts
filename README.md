@@ -1,6 +1,6 @@
 # Autocode Scripts 
 
-Useful scripts running on autocode.com.
+Useful scripts running on [autocode.com](https://autocode.com).
 
 ## License
 
